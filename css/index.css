@@ -1,0 +1,38 @@
+body{
+    background: #60a0d7;
+}
+
+#main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #mint-counter {
+    font-family: 'Press Start 2P', cursive;
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+  }
+
+  .title-a{
+    margin-right: 80%;
+    margin-bottom: 5%;
+  }
+
+  .img-logo{
+    width: 250px;
+  }
+
+  .img-a {
+    border-radius: 10px;
+    width: 300px;
+  }
+
+  .wallet-adapter-button-trigger {
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 50px;
+    background-color: #512da8;
+    width: 300px;
+    height: 100px;
+  }
